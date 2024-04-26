@@ -1,2 +1,2 @@
 # Final Compo
- 
+For my Final Composition, my goal is to create a song with a typical song form using script and then match it with my visuals. For my visuals I am trying to create splashing effects to represent the kick and snare, and I want to create some other effect for my Hi-Hats, I am not sure yet however. For my other sounds, I think I'll create some chords which may control some colors for my visuals, and I already have another arpeggio sound which is linked to a rotating cylinder in the center of the scene. I want to see where these ideas take me. 
